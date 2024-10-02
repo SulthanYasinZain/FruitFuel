@@ -17,13 +17,13 @@ function NavBar() {
             </a>
           </li>
           <li className="">
-            <a href="#about" className="text-xs sm:text-lg">
-              Tentang
+            <a href="#product" className="text-xs sm:text-lg">
+              Produk
             </a>
           </li>
           <li className="">
-            <a href="#product" className="text-xs sm:text-lg">
-              Produk
+            <a href="#about" className="text-xs sm:text-lg">
+              Tentang
             </a>
           </li>
         </div>
