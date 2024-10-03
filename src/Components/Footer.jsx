@@ -1,4 +1,4 @@
-import Instagram from "../assets/instagram.webp";
+import Instagram from "../assets/Instagram.webp";
 import Whatsapp from "../assets/Whatsapp.png";
 
 function Footer() {
