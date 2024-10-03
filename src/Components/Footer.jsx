@@ -1,5 +1,5 @@
 import Instagram from "../assets/Instagram.webp";
-import Whatsapp from "../assets/Whatsapp.png";
+import Whatsapp from "../assets/whatsapp.png";
 
 function Footer() {
   return (
